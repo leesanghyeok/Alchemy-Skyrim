@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\program\android\Alchemy\AlchemyProject1.0V\Alchemy\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="E:\program\android\Alchemy\AlchemyProject1.0V\Alchemy\build\intermediates\pre-dexed\debug\classes-31f9db6cf3e4f178cf2e955ffa3b074250404e09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="E:\program\android\Alchemy\AlchemyProject1.0V\Alchemy\build\intermediates\pre-dexed\debug\support-v4-19.0.0-c57f2c76173eb7dd4dda4999e20c742f805a46ee.jar" />
+    </item>
+
+</items>
