@@ -1,0 +1,102 @@
+﻿Abecean Longfin=Weakness to Frost=Fortify Sneak=Weakness to Poison=Fortify Restoration=48px-SR-icon-ingredient-Abecean_Longfin.png
+Ancestor Moth Wing=Damage Stamina=Fortify Conjuration=Damage Magicka Regen=Fortify Enchanting=48px-SR-icon-ingredient-Ancestor_Moth_Wing.png
+Bear Claws=Restore Stamina=Fortify Health=Fortify One-handed=Damage Magicka Regen=48px-SR-icon-ingredient-Bear_Claws.png
+Bee=Restore Stamina=Ravage Stamina=Regenerate Stamina=Weakness to Shock=48px-SR-icon-ingredient-Bee.png
+Beehive Husk=Resist Poison=Fortify Light Armor=Fortify Sneak=Fortify Destruction=48px-SR-icon-ingredient-Beehive_Husk.png
+Bleeding Crown=Weakness to Fire=Fortify Block=Weakness to Poison=Resist Magic=48px-SR-icon-ingredient-Bleeding_Crown.png
+Blisterwort=Damage Stamina=Frenzy=Restore Health=Fortify Smithing=48px-SR-icon-ingredient-Blisterwort.png
+Blue Butterfly Wing=Damage Stamina=Fortify Conjuration=Damage Magicka Regen=Fortify Enchanting=48px-SR-icon-ingredient-Blue_Butterfly_Wing.png
+Blue Dartwing=Resist Shock=Fortify Pickpocket=Restore Health=Fear=48px-SR-icon-ingredient-Blue_Dartwing.png
+Blue Mountain Flower=Restore Health=Fortify Conjuration=Fortify Health=Damage Magicka Regen=48px-SR-icon-ingredient-Blue_Mountain_Flower.png
+Bone Meal=Damage Stamina=Resist Fire=Fortify Conjuration=Ravage Stamina=48px-SR-icon-ingredient-Bone_Meal.png
+Briar Heart=Restore Magicka=Fortify Block=Paralysis=Fortify Magicka=48px-SR-icon-ingredient-Briar_Heart.png
+Butterfly Wing=Restore Health=Fortify Barter=Lingering Damage Stamina=Damage Magicka=48px-SR-icon-ingredient-Butterfly_Wing.png
+Canis Root=Damage Stamina=Fortify One-handed=Fortify Marksman=Paralysis=48px-SR-icon-ingredient-Canis_Root.png
+Charred Skeever Hide=Restore Stamina=Cure Disease=Resist Poison=Restore Health=48px-SR-icon-ingredient-Charred_Skeever_Hide.png
+Chaurus Eggs=Weakness to Poison=Fortify Stamina=Damage Magicka=Invisibility=48px-SR-icon-ingredient-Chaurus_Eggs.png
+Chaurus Hunter Antennae=Damage Stamina=Fortify Conjuration=Damage Magicka Regen=Fortify Enchanting=48px-SR-icon-ingredient-Chaurus_Hunter_Antennae.png
+Chicken's Egg=Resist Magic=Damage Magicka Regen=Waterbreathing=Lingering Damage Stamina=48px-SR-icon-ingredient-Chicken's_Egg.png
+Creep Cluster=Restore Magicka=Damage Stamina Regen=Fortify Carry Weight=Weakness to Magic=48px-SR-icon-ingredient-Creep_Cluster.png
+Crimson Nirnroot=Damage Health=Damage Stamina=Invisibility=Resist Magic=48px-SR-icon-ingredient-Crimson_Nirnroot.png
+Cyrodilic Spadetail=Damage Stamina=Fortify Restoration=Fear=Ravage Health=48px-SR-icon-ingredient-Cyrodilic_Spadetail.png
+Daedra Heart=Restore Health=Damage Stamina Regen=Damage Magicka=Fear=48px-SR-icon-ingredient-Daedra_Heart.png
+Deathbell=Damage Health=Ravage Stamina=Slow=Weakness to Poison=48px-SR-icon-ingredient-Deathbell.png
+Dragon's Tongue=Resist Fire=Fortify Barter=Fortify Illusion=Fortify Two-handed=48px-SR-icon-ingredient-Dragon's_Tongue.png
+Dwarven Oil=Weakness to Magic=Fortify Illusion=Regenerate Magicka=Restore Magicka=48px-SR-icon-ingredient-Dwarven_Oil.png
+Ectoplasm=Restore Magicka=Fortify Destruction=Fortify Magicka=Damage Health=48px-SR-icon-ingredient-Ectoplasm.png
+Elves Ear=Restore Magicka=Fortify Marksman=Weakness to Frost=Resist Fire=48px-SR-icon-ingredient-Elves_Ear.png
+Eye of Sabre Cat=Restore Stamina=Ravage Health=Damage Magicka=Restore Health=48px-SR-icon-ingredient-Eye_of_Sabre_Cat.png
+Falmer Ear=Damage Health=Frenzy=Resist Poison=Fortify Lockpicking=48px-SR-icon-ingredient-Falmer_Ear.png
+Fire Salts=Weakness to Frost=Resist Fire=Restore Magicka=Regenerate Magicka=48px-SR-icon-ingredient-Fire_Salts.png
+Fly Amanita=Resist Fire=Fortify Two-handed=Frenzy=Regenerate Stamina=48px-SR-icon-ingredient-Fly_Amanita.png
+Frost Mirriam=Resist Frost=Fortify Sneak=Ravage Magicka=Damage Stamina Regen=48px-SR-icon-ingredient-Frost_Mirriam.png
+Frost Salts=Weakness to Fire=Resist Frost=Restore Magicka=Fortify Conjuration=48px-SR-icon-ingredient-Frost_Salts.png
+Garlic=Resist Poison=Fortify Stamina=Regenerate Magicka=Regenerate Health=48px-SR-icon-ingredient-Garlic.png
+Giant Lichen=Weakness to Shock=Ravage Health=Weakness to Poison=Restore Magicka=48px-SR-icon-ingredient-Giant_Lichen.png
+Giant's Toe=Damage Stamina=Fortify Health=Fortify Carry Weight=Damage Stamina Regen=48px-SR-icon-ingredient-Giant's_Toe.png
+Gleamblossom=Resist Magic=Fear=Regenerate Health=Paralysis=48px-SR-icon-ingredient-Gleamblossom.png
+Glow Dust=Damage Magicka=Damage Magicka Regen=Fortify Destruction=Resist Shock=48px-SR-icon-ingredient-Glow_Dust.png
+Glowing Mushroom=Resist Shock=Fortify Destruction=Fortify Smithing=Fortify Health=48px-SR-icon-ingredient-Glowing_Mushroom.png
+Grass Pod=Resist Poison=Ravage Magicka=Fortify Alteration=Restore Magicka=48px-SR-icon-ingredient-Grass_Pod.png
+Hagraven Claw=Resist Magic=Lingering Damage Magicka=Fortify Enchanting=Fortify Barter=48px-SR-icon-ingredient-Hagraven_Claw.png
+Hagraven Feathers=Damage Magicka=Fortify Conjuration=Frenzy=Weakness to Shock=48px-SR-icon-ingredient-Hagraven_Feathers.png
+Hanging Moss=Damage Magicka=Fortify Health=Damage Magicka Regen=Fortify One-handed=48px-SR-icon-ingredient-Hanging_Moss.png
+Hawk Beak=Restore Stamina=Resist Frost=Fortify Carry Weight=Resist Shock=48px-SR-icon-ingredient-Hawk_Beak.png
+Hawk Feathers=Cure Disease=Fortify Light Armor=Fortify One-handed=Fortify Sneak=48px-SR-icon-ingredient-Hawk_Feathers.png
+Hawk's Egg=Resist Magic=Damage Magicka Regen=Waterbreathing=Lingering Damage Stamina=48px-SR-icon-ingredient-Hawk's_Egg.png
+Histcarp=Restore Stamina=Fortify Magicka=Damage Stamina Regen=Waterbreathing=48px-SR-icon-ingredient-Histcarp.png
+Honeycomb=Restore Stamina=Fortify Block=Fortify Light Armor=Ravage Stamina=48px-SR-icon-ingredient-Honeycomb.png
+Human Flesh=Damage Health=Paralysis=Restore Magicka=Fortify Sneak=48px-SR-icon-ingredient-Human_Flesh.png
+Human Heart=Damage Health=Damage Magicka=Damage Magicka Regen=Frenzy=48px-SR-icon-ingredient-Human_Heart.png
+Ice Wraith Teeth=Weakness to Frost=Fortify Heavy Armor=Invisibility=Weakness to Fire=48px-SR-icon-ingredient-Ice_Wraith_Teeth.png
+Imp Stool=Damage Health=Lingering Damage Health=Paralysis=Restore Health=48px-SR-icon-ingredient-Imp_Stool.png
+Jazbay Grapes=Weakness to Magic=Fortify Magicka=Regenerate Magicka=Ravage Health=48px-SR-icon-ingredient-Jazbay_Grapes.png
+Juniper Berries=Weakness to Fire=Fortify Marksman=Regenerate Health=Damage Stamina Regen=48px-SR-icon-ingredient-Juniper_Berries.png
+Large Antlers=Restore Stamina=Fortify Stamina=Slow=Damage Stamina Regen=48px-SR-icon-ingredient-Large_Antlers.png
+Lavender=Resist Magic=Fortify Stamina=Ravage Magicka=Fortify Conjuration=48px-SR-icon-ingredient-Lavender.png
+Luna Moth Wing=Damage Magicka=Fortify Light Armor=Regenerate Health=Invisibility=48px-SR-icon-ingredient-Luna_Moth_Wing.png
+Moon Sugar=Weakness to Fire=Resist Frost=Restore Magicka=Regenerate Magicka=48px-SR-icon-ingredient-Moon_Sugar.png
+Mora Tapinella=Restore Magicka=Lingering Damage Health=Regenerate Stamina=Fortify Illusion=48px-SR-icon-ingredient-Mora_Tapinella.png
+Mudcrab Chitin=Restore Stamina=Cure Disease=Resist Poison=Resist Fire=48px-SR-icon-ingredient-Mudcrab_Chitin.png
+Namira's Rot=Damage Magicka=Fortify Lockpicking=Fear=Regenerate Health=48px-SR-icon-ingredient-Namira's_Rot.png
+Nightshade=Damage Health=Damage Magicka Regen=Lingering Damage Stamina=Fortify Destruction=48px-SR-icon-ingredient-Nightshade.png
+Nirnroot=Damage Health=Damage Stamina=Invisibility=Resist Magic=48px-SR-icon-ingredient-Nirnroot.png
+Nordic Barnacle=Damage Magicka=Waterbreathing=Regenerate Health=Fortify Pickpocket=48px-SR-icon-ingredient-Nordic_Barnacle.png
+Orange Dartwing=Restore Stamina=Ravage Magicka=Fortify Pickpocket=Lingering Damage Health=48px-SR-icon-ingredient-Orange_Dartwing.png
+Pearl=Restore Stamina=Fortify Block=Restore Magicka=Resist Shock=48px-SR-icon-ingredient-Pearl.png
+Pine Thrush Egg=Restore Stamina=Fortify Lockpicking=Weakness to Poison=Resist Shock=48px-SR-icon-ingredient-Pine_Thrush_Egg.png
+Poison Bloom=Damage Health=Slow=Fortify Carry Weight=Fear=48px-SR-icon-ingredient-Poison_Bloom.png
+Powdered Mammoth Tusk=Restore Stamina=Fortify Sneak=Weakness to Fire=Fear=48px-SR-icon-ingredient-Powdered_Mammoth_Tusk.png
+Purple Mountain Flower=Restore Stamina=Fortify Sneak=Lingering Damage Magicka=Resist Frost=48px-SR-icon-ingredient-Purple_Mountain_Flower.png
+Red Mountain Flower=Restore Magicka=Ravage Magicka=Fortify Magicka=Damage Health=48px-SR-icon-ingredient-Red_Mountain_Flower.png
+River Betty=Damage Health=Fortify Alteration=Slow=Fortify Carry Weight=48px-SR-icon-ingredient-River_Betty.png
+Rock Warbler Egg=Restore Health=Fortify One-handed=Damage Stamina=Weakness to Magic=48px-SR-icon-ingredient-Rock_Warbler_Egg.png
+Sabre Cat Tooth=Restore Stamina=Fortify Heavy Armor=Fortify Smithing=Weakness to Poison=48px-SR-icon-ingredient-Sabre_Cat_Tooth.png
+Salmon Roe=Restore Stamina=Waterbreathing=Fortify Magicka=Regenerate Magicka=48px-SR-icon-ingredient-Salmon_Roe.png
+Salt Pile=Weakness to Magic=Fortify Restoration=Slow=Regenerate Magicka=48px-SR-icon-ingredient-Salt_Pile.png
+Scaly Pholiota=Weakness to Magic=Fortify Illusion=Regenerate Stamina=Fortify Carry Weight=48px-SR-icon-ingredient-Scaly_Pholiota.png
+Silverside Perch=Restore Stamina=Damage Stamina Regen=Ravage Health=Resist Frost=48px-SR-icon-ingredient-Silverside_Perch.png
+Skeever Tail=Damage Stamina Regen=Ravage Health=Damage Health=Fortify Light Armor=48px-SR-icon-ingredient-Skeever_Tail.png
+Slaughterfish Egg=Resist Poison=Fortify Pickpocket=Lingering Damage Health=Fortify Stamina=48px-SR-icon-ingredient-Slaughterfish_Egg.png
+Slaughterfish Scales=Resist Frost=Lingering Damage Health=Fortify Heavy Armor=Fortify Block=48px-SR-icon-ingredient-Slaughterfish_Scales.png
+Small Antlers=Weakness to Poison=Fortify Restoration=Lingering Damage Stamina=Damage Health=48px-SR-icon-ingredient-Small_Antlers.png
+Small Pearl=Restore Stamina=Fortify One-handed=Fortify Restoration=Resist Frost=48px-SR-icon-ingredient-Small_Pearl.png
+Snowberries=Resist Fire=Fortify Enchanting=Resist Frost=Resist Shock=48px-SR-icon-ingredient-Snowberries.png
+Spider Egg=Damage Stamina=Damage Magicka Regen=Fortify Lockpicking=Fortify Marksman=48px-SR-icon-ingredient-Spider_Egg.png
+Spriggan Sap=Damage Magicka Regen=Fortify Enchanting=Fortify Smithing=Fortify Alteration=48px-SR-icon-ingredient-Spriggan_Sap.png
+Swamp Fungal Pod=Resist Shock=Lingering Damage Magicka=Paralysis=Restore Health=48px-SR-icon-ingredient-Swamp_Fungal_Pod.png
+Taproot=Weakness to Magic=Fortify Illusion=Regenerate Magicka=Restore Magicka=48px-SR-icon-ingredient-Taproot.png
+Thistle Branch=Resist Frost=Ravage Stamina=Resist Poison=Fortify Heavy Armor=48px-SR-icon-ingredient-Thistle_Branch.png
+Torchbug Thorax=Restore Stamina=Lingering Damage Magicka=Weakness to Magic=Fortify Stamina=48px-SR-icon-ingredient-Torchbug_Thorax.png
+Troll Fat=Resist Poison=Fortify Two-handed=Frenzy=Damage Health=48px-SR-icon-ingredient-Troll_Fat.png
+Tundra Cotton=Resist Magic=Fortify Magicka=Fortify Block=Fortify Barter=48px-SR-icon-ingredient-Tundra_Cotton.png
+Vampire Dust=Invisibility=Restore Magicka=Regenerate Health=Cure Disease=48px-SR-icon-ingredient-Vampire_Dust.png
+Void Salts=Weakness to Shock=Resist Magic=Damage Health=Fortify Magicka=48px-SR-icon-ingredient-Void_Salts.png
+Wheat=Restore Health=Fortify Health=Damage Stamina Regen=Lingering Damage Magicka=48px-SR-icon-ingredient-Wheat.png
+White Cap=Weakness to Frost=Fortify Heavy Armor=Restore Magicka=Ravage Magicka=48px-SR-icon-ingredient-White_Cap.png
+Wisp Wrappings=Restore Stamina=Fortify Destruction=Fortify Carry Weight=Resist Magic=48px-SR-icon-ingredient-Wisp_Wrappings.png
+Yellow Mountain Flower=Resist Poison=Fortify Restoration=Fortify Health=Damage Stamina Regen=48px-SR-icon-ingredient-Yellow_Mountain_Flower.png
+Berit's Ashes=Damage Stamina=Resist Fire=Fortify Conjuration=Ravage Stamina=48px-SR-icon-ingredient-Berit's_Ashes.png
+Farengar's Frost Salt=Weakness to Fire=Resist Frost=Restore Magicka=Fortify Conjuration=48px-SR-icon-ingredient-Farengar's_Frost_Salt.png
+Fine-Cut Void Salts=Weakness to Shock=Resist Magic=Damage Health=Fortify Magicka=48px-SR-icon-ingredient-Fine-Cut_Void_Salts.png
+Jarrin Root=Damage Health=Damage Magicka=Damage Stamina=Damage Magicka Regen=48px-SR-icon-ingredient-Jarrin_Root.png
